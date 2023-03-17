@@ -22,7 +22,7 @@ export default function Dashboard(props) {
 
                     <Row>
                         <Col className='col-xxl-6 col-12'>
-                            <h3 className='font1 fontSmall'>Social Media Dashboard</h3>
+                            <h3 className='font1 mr2'>Social Media Dashboard</h3>
                             <p className='font2 mr2'>Total Followers: 23,004</p>
                         </Col>
                         <div className='line'></div>
